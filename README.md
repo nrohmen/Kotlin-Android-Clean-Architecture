@@ -1,2 +1,4 @@
 # Kotlin-Android-Clean-Architecture
-Random Android project written in Kotlin
+Just random Android project written in Kotlin. In this project i'll apply some things to approach clean architecture.
+- Using Kotlin DSL to write Gradle scripts.
+- ...
