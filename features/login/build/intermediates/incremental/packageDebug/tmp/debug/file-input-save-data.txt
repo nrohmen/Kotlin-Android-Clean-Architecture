@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed May 29 10:59:34 WIB 2019
+0.baseType=DIRECTORY
+0.base=/Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:3:9-36
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:2:9-65
+	xmlns:android
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+	android:versionCode
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:1:1-10:12
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+dist:module
+ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:4:5-9:19
+	dist:instant
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:6:13-33
+	dist:title
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:7:13-45
+	dist:onDemand
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:5:13-33
+dist:fusing
+ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:8:9-43
+	dist:include
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml:8:22-41
+uses-sdk
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		ADDED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml
+		INJECTED from /Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/src/main/AndroidManifest.xml

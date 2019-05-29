@@ -1,0 +1,4 @@
+#Wed May 29 10:59:34 WIB 2019
+base.0=/Users/nrohmen/Documents/Learn/Kotlin-Android-Clean-Architecture/features/login/build/intermediates/dex/debug/mergeProjectDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
